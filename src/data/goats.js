@@ -9,7 +9,7 @@ export const goats = [
     price: "Contact on WhatsApp / Call",
     status: "Star Breeder",
     image: `${import.meta.env.BASE_URL}images/handsome-boer-real.jpg`,
-    description: "🏆 Our STAR Breeder — \"HANDSOME\" — is a champion pure Boer buck featured on our Instagram. Massive muscular frame, deep reddish-brown head, and top-tier genetics. Father of multiple award-winning kids at SidhiGanesh Farm.",
+    description: "🏆 Our STAR Breeder — \"HANDSOME\" — is a champion pure Boer buck featured on our Instagram. Massive muscular frame, deep reddish-brown head, and top-tier genetics. Father of multiple award-winning kids at Dhebemama Farm.",
     healthStatus: "Vaccinated & Healthy",
     featured: true,
   },
@@ -43,7 +43,7 @@ export const goats = [
   },
   {
     id: 4,
-    name: "SidhiGanesh Boer Kids Pair",
+    name: "Dhebemama Boer Kids Pair",
     breed: "Pure South African Boer",
     age: "4–6 Months",
     gender: "Male & Female Pairs",

@@ -18,7 +18,7 @@ export default function Hero() {
       <div className="hero__bg">
         <img
           src={`${import.meta.env.BASE_URL}images/boer-herd-grazing.jpg`}
-          alt="SidhiGanesh Goat Farm panoramic view with goats grazing in Sangli Maharashtra"
+          alt="Dhebemama Goat Farm panoramic view with goats grazing in Sangli Maharashtra"
           loading="eager"
           fetchPriority="high"
         />
@@ -62,7 +62,7 @@ export default function Hero() {
             See Instagram
           </a>
           <a
-            href="https://www.youtube.com/@sidhiganeshboergoat9265"
+            href="https://www.youtube.com/@dhebemamaboergoat9265"
             target="_blank"
             rel="noopener noreferrer"
             className="btn btn--youtube btn--lg"

@@ -44,7 +44,7 @@ export default function GoatStock() {
             <div style={{ position: 'relative', minHeight: '360px', overflow: 'hidden' }}>
               <img
                 src={featured.image}
-                alt={`${featured.name} — Star Boer Breeder Buck at SidhiGanesh Goat Farm`}
+                alt={`${featured.name} — Star Boer Breeder Buck at Dhebemama Goat Farm`}
                 style={{ width: '100%', height: '100%', objectFit: 'cover', display: 'block' }}
               />
               {/* Instagram badge */}

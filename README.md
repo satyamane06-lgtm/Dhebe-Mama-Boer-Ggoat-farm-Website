@@ -1,6 +1,6 @@
-# SidhiGanesh Goat Farm — Website
+# Dhebemama Goat Farm — Website
 
-Premium goat farming business website for **SidhiGanesh Goat Farm**, located in Turchi, Tasgaon, Sangli, Maharashtra, India.
+Premium goat farming business website for **Dhebemama Goat Farm**, located in Turchi, Tasgaon, Sangli, Maharashtra, India.
 
 Built with **React + Vite** | Vanilla CSS Design System | SEO Optimized
 
@@ -178,7 +178,7 @@ Edit `src/data/goats.js`. Each goat entry looks like:
 ### On Netlify:
 1. Go to Site settings → Domain management
 2. Click "Add custom domain"
-3. Enter your domain (e.g., `sidhiganeshgoatfarm.com`)
+3. Enter your domain (e.g., `dhebemamagoatfarm.com`)
 4. Update your domain's DNS records as instructed by Netlify
 5. Enable HTTPS (auto-enabled)
 
@@ -195,7 +195,7 @@ Edit `src/data/goats.js`. Each goat entry looks like:
 ### Step 1: Verify Your Website
 1. Go to [Google Search Console](https://search.google.com/search-console)
 2. Click "Add property"
-3. Enter your website URL (e.g., `https://sidhiganeshgoatfarm.com`)
+3. Enter your website URL (e.g., `https://dhebemamagoatfarm.com`)
 4. Choose verification method:
    - **Recommended:** DNS verification through your domain registrar
    - **Alternative:** HTML tag verification — add the meta tag to `index.html`
@@ -250,4 +250,4 @@ Edit `src/data/goats.js`. Each goat entry looks like:
 
 ## 📄 License
 
-© 2026 SidhiGanesh Goat Farm. All Rights Reserved.
+© 2026 Dhebemama Goat Farm. All Rights Reserved.

@@ -21,7 +21,7 @@ export default function GoatBreeds() {
               <div className="breed-card__image" style={{ height: '320px' }}>
                 <img
                   src={breed.image}
-                  alt={`${breed.name} goat breed available at SidhiGanesh Goat Farm Maharashtra`}
+                  alt={`${breed.name} goat breed available at Dhebemama Goat Farm Maharashtra`}
                   loading="lazy"
                 />
               </div>

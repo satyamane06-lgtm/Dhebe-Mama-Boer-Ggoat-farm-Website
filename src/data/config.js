@@ -40,7 +40,7 @@ export const BUSINESS = {
   },
 
   // Website
-  website: "https://sidhiganeshgoatfarm.com",
+  website: "https://dhebemamagoatfarm.com",
 
   // Copyright
   copyright: `© ${new Date().getFullYear()} Dhebe Mama Agro Pvt. Ltd. (ढेबेमामा ॲग्रो प्रा.लि) – African Boer Goat Farm. All Rights Reserved.`,

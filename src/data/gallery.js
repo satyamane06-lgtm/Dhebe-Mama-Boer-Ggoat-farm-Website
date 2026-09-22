@@ -1,6 +1,6 @@
 // ============================================
 // GALLERY DATA - EXCLUSIVE BOER GOAT ANIMAL PHOTOS
-// SidhiGanesh Boer Goat Farm (@sidhiganeshboergoat)
+// Dhebemama Boer Goat Farm (@dhebemamaboergoat)
 // ============================================
 
 export const galleryImages = [
