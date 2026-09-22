@@ -9,7 +9,7 @@ export default function InstagramSection() {
       type: 'post',
       title: '😎 HANDSOME — Our Star Boer Breeder Buck',
       url: 'https://www.instagram.com/dhebe.mama__boer_goat_farm/',
-      img: '/images/handsome-boer-real.jpg',
+      img: `${import.meta.env.BASE_URL}images/handsome-boer-real.jpg`,
       likes: '2.4K+',
     },
     {
@@ -17,7 +17,7 @@ export default function InstagramSection() {
       type: 'reel',
       title: 'Heavy Weight Breeding Male Buck',
       url: 'https://www.instagram.com/dhebe.mama__boer_goat_farm/',
-      img: '/images/goat-boer.jpg',
+      img: `${import.meta.env.BASE_URL}images/goat-boer.jpg`,
       likes: '5.1K+',
     },
     {
@@ -25,7 +25,7 @@ export default function InstagramSection() {
       type: 'reel',
       title: 'Purebred Boer Female Doe Stock',
       url: 'https://www.instagram.com/dhebe.mama__boer_goat_farm/',
-      img: '/images/goat-boer-doe.jpg',
+      img: `${import.meta.env.BASE_URL}images/goat-boer-doe.jpg`,
       likes: '3.8K+',
     },
     {
@@ -33,7 +33,7 @@ export default function InstagramSection() {
       type: 'reel',
       title: 'Healthy Boer Goat Kids Group Update',
       url: 'https://www.instagram.com/dhebe.mama__boer_goat_farm/',
-      img: '/images/goat-boer-kids.jpg',
+      img: `${import.meta.env.BASE_URL}images/goat-boer-kids.jpg`,
       likes: '4.2K+',
     },
   ];

@@ -17,7 +17,7 @@ export default function Hero() {
       {/* Background Image */}
       <div className="hero__bg">
         <img
-          src="/images/boer-herd-grazing.jpg"
+          src={`${import.meta.env.BASE_URL}images/boer-herd-grazing.jpg`}
           alt="SidhiGanesh Goat Farm panoramic view with goats grazing in Sangli Maharashtra"
           loading="eager"
           fetchPriority="high"

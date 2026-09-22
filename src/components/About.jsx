@@ -18,7 +18,7 @@ export default function About() {
           {/* Image */}
           <div className="about__image">
             <img
-              src="/images/dhebe-mama-logo.jpg"
+              src={`${import.meta.env.BASE_URL}images/dhebe-mama-logo.jpg`}
               alt="Farmer caring for goats at SidhiGanesh Goat Farm in Turchi Tasgaon Sangli Maharashtra"
               loading="lazy"
             />
