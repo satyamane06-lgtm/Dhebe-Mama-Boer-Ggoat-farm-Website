@@ -3,4 +3,4 @@ User-agent: *
 Allow: /
 
 # Sitemap location
-Sitemap: https://dhebemamagoatfarm.com/sitemap.xml
+Sitemap: https://satyamane06-lgtm.github.io/Dhebemama-Boer-Goat-Farm/sitemap.xml
