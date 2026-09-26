@@ -1,5 +1,6 @@
 import { MapPin, Phone, MessageCircle, Navigation } from 'lucide-react';
 import Instagram from './InstagramIcon';
+import Youtube from './YoutubeIcon';
 import { BUSINESS, getWhatsAppLink, getPhoneLink } from '../data/config';
 
 export default function Contact() {
@@ -70,6 +71,22 @@ export default function Contact() {
               </div>
             </div>
 
+            <div className="contact__info-item">
+              <div className="contact__info-icon">
+                <Youtube size={22} />
+              </div>
+              <div className="contact__info-text">
+                <h3>YouTube</h3>
+                <a
+                  href={BUSINESS.youtube}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  {BUSINESS.youtubeHandle}
+                </a>
+              </div>
+            </div>
+
             {/* Action Buttons */}
             <div className="contact__buttons">
               <a href={getPhoneLink()} className="btn btn--call btn--sm">
@@ -97,6 +114,19 @@ export default function Contact() {
               >
                 <Instagram size={16} />
                 Instagram
+              </a>
+              <a
+                href={BUSINESS.youtube}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="btn btn--outline btn--sm"
+                style={{
+                  borderColor: '#FF0000',
+                  color: '#FF0000',
+                }}
+              >
+                <Youtube size={16} />
+                YouTube
               </a>
               <a
                 href={BUSINESS.googleMaps}

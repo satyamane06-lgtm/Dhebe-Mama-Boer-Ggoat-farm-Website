@@ -1,5 +1,6 @@
 import { Phone, MessageCircle, MapPin } from 'lucide-react';
 import Instagram from './InstagramIcon';
+import Youtube from './YoutubeIcon';
 import { BUSINESS, getWhatsAppLink, getPhoneLink } from '../data/config';
 
 const quickLinks = [
@@ -50,6 +51,14 @@ export default function Footer() {
                 <Instagram size={18} />
               </a>
               <a
+                href={BUSINESS.youtube}
+                target="_blank"
+                rel="noopener noreferrer"
+                aria-label="YouTube"
+              >
+                <Youtube size={18} />
+              </a>
+              <a
                 href={BUSINESS.googleMaps}
                 target="_blank"
                 rel="noopener noreferrer"
@@ -97,6 +106,11 @@ export default function Footer() {
               <li>
                 <a href={BUSINESS.instagram} target="_blank" rel="noopener noreferrer">
                   📷 {BUSINESS.instagramHandle}
+                </a>
+              </li>
+              <li>
+                <a href={BUSINESS.youtube} target="_blank" rel="noopener noreferrer">
+                  ▶️ {BUSINESS.youtubeHandle}
                 </a>
               </li>
               <li>

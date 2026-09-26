@@ -18,6 +18,8 @@ export const BUSINESS = {
   // Social Media
   instagram: "https://www.instagram.com/dhebe.mama__boer_goat_farm",
   instagramHandle: "@dhebe.mama__boer_goat_farm",
+  youtube: "https://www.youtube.com/@sidhiganeshboergoat9265",
+  youtubeHandle: "@sidhiganeshboergoat9265",
 
   // Logo
   // Using BASE_URL so the image works correctly on GitHub Pages
