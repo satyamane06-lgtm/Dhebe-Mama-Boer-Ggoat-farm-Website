@@ -138,6 +138,7 @@ html {
   scroll-behavior: smooth;
   scroll-padding-top: var(--navbar-height);
   -webkit-text-size-adjust: 100%;
+  overflow-x: hidden;
 }
 
 body {
@@ -149,6 +150,8 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   overflow-x: hidden;
+  overflow-wrap: anywhere;
+  word-wrap: break-word;
 }
 
 img {
@@ -160,6 +163,9 @@ img {
 a {
   text-decoration: none;
   color: inherit;
+  overflow-wrap: anywhere;
+  word-wrap: break-word;
+  word-break: break-word;
 }
 
 ul, ol {
